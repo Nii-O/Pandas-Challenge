@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas Challenge - Pandas, Pandas, Pandas
 
 ## Background
 
@@ -119,7 +119,7 @@ As final considerations:
 
 ## Rubric
 
-[Unit 4 Rubric - Pandas Homework - Pandas, Pandas, Pandas](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
+[Unit 4 Rubric - Pandas Challenge - Pandas, Pandas, Pandas](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
 
 - - -
 
